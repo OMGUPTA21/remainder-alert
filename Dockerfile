@@ -9,3 +9,6 @@ COPY requirements.txt  requirements.txt
 #gcc libc-dev linux-headers postgresql-dev musl-dev zlib zlib-dev
 # RUN apk del .tmp-build-deps
 RUN pip install --no-cache-dir -r requirements.txt
+
+
+#dfgdg
